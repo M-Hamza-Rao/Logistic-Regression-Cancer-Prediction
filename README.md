@@ -1,4 +1,4 @@
-#Logistic Regression Cancer Prediction
+# Logistic Regression Cancer Prediction
 This project uses Logistic Regression, a fundamental classification algorithm in machine learning, to predict whether a tumor is malignant or benign based on features extracted from medical data. The dataset used is the Wisconsin Breast Cancer Dataset, a well-known dataset in the field of medical data analysis and machine learning.
 
 📂 Project Structure
